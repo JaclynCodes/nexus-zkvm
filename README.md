@@ -1,5 +1,5 @@
 # The Nexus zkVM
-
+*
 <div align="left">
     <a href="https://github.com/nexus-xyz/nexus-zkvm/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/nexus-xyz/nexus-zkvm.svg"></a>
